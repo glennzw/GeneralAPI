@@ -1,0 +1,11 @@
+[database]
+name=test sqlite
+type=sqlite
+database=/fork.db
+allowedtables=users:*;depts
+
+[authentication]
+basicUser=masterCommander
+basicPassword=whatGoesDownMustComeUp
+adminUser=bob
+adminPassword=bob

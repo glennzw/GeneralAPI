@@ -1,0 +1,16 @@
+[database]
+name=TopSecret
+type=mysql
+host=localhost
+port=3306
+user=topkek
+password=potato
+database=secrets
+encoding=utf-8
+allowedtables=users:username,email;countries;hobbies:id,name,description
+
+[authentication]
+basicUser=default
+basicPassword=default
+adminUser=default
+adminPassword=default
