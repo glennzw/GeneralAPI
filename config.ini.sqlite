@@ -5,7 +5,7 @@ database=/fork.db
 allowedtables=users:*;depts
 
 [authentication]
-basicUser=masterCommander
-basicPassword=whatGoesDownMustComeUp
-adminUser=bob
-adminPassword=bob
+basicUser=default
+basicPassword=default
+adminUser=default
+adminPassword=default
